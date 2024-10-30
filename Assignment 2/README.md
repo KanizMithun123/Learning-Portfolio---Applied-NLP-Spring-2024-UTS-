@@ -15,32 +15,6 @@ Link of our application: Travel Mate: https://travelmate.streamlit.app/
 ### Prerequisites
 - Python 3.8+
 - Streamlit
-- An API key for Google's Generative AI services
-
-### Local Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/SuyashTapase/TravelMate_NLP_AT2_Group9.git
-   cd TravelMate_NLP_AT2_Group9
-   
-2. **Install dependencies:**
-   ```bash
-   Copy code
-   pip install -r requirements.txt
-   Set up environment variables:
-
-3. **Create a .env file in the root directory of the project and add the following line:**
-   ```bash
-   plaintext
-   Copy code
-   GOOGLE_API_KEY=your_api_key_here
-   Replace your_api_key_here with your actual API key for Google's Generative AI.
-
-4. **Run the application:**
-   ```bash
-   Copy code
-   streamlit run app.py
 
 ## How to Use
 
@@ -63,8 +37,3 @@ Link of our application: Travel Mate: https://travelmate.streamlit.app/
 
 ### Submitted By: Group 9 
 
-- Archit Pradip Murgudkar: 14190286
-- Jyoti Khurana: 14075648
-- Kaniz Fatema Mithun: 25109810
-- Molly Dignan: 24929263
-- Suyash Santosh Tapase: 24678207
