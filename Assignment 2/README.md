@@ -2,7 +2,7 @@
 
 TravelMate is a Streamlit-based web application designed to enhance your travel planning experience. By interacting with Google Gemini AI, TravelMate helps you generate personalized travel itineraries. Simply input your preferences for destination, duration, activities, accommodation type, and budget, and TravelMate will craft a tailored trip plan, including recommendations and estimated costs, all while supporting multiple languages for a global audience.
 
-Link off our application: Travel Mate: https://travelmate.streamlit.app/
+Link of our application: Travel Mate: https://travelmate.streamlit.app/
 
 ## Features
 - **Select Preferred Language**: Choose your language preference from the dropdown menu. 
